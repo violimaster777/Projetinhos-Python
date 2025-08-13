@@ -182,3 +182,4 @@ for col in ("Nome", "Espécie", "Cor", "Descrição", "Data"):
 tree.grid(row=8, column=1, columnspan=2, pady=10, sticky='w')
 
 janela.mainloop()
+
